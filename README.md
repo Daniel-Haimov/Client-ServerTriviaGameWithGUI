@@ -1,8 +1,10 @@
 # Client-ServerTriviaGame
-server manage multi socket's
-save&load user and questions data from file
-handling requests from clients with unique protocol
-
+Server: 
+<div>manage multi socket's
+<div>save&load user and questions data from file
+<div>handling requests from clients with unique protocol
+<div>
+Client:
 2 version's of client:
   1. with simple gui tkinter
   2. without gui(console)
