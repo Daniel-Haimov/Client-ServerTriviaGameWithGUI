@@ -6,8 +6,8 @@ Server:
 <div> 
 Client:
 <div>&nbsp;&nbsp;&nbsp;&nbsp;2 version's of client:
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. with simple gui tkinter
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. without gui(console)
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. with GUI tkinter
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. without GUI(console)
 <div> 
 thanks:
 <div>&nbsp;&nbsp;&nbsp;&nbsp;1. <a href="https://campus.gov.il/">Campus-IL</a> for server-client course
