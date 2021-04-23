@@ -7,7 +7,7 @@ handling requests from clients with unique protocol
   1. with simple gui tkinter
   2. without gui(console)
 
-thanks:<div>
+thanks:
   <a href="https://campus.gov.il/">Campus-IL</a> for server-client course<div>
   <a href="https://www.w3schools.com">W3Schools</a><div>
   <a href="http://page.sourceforge.net/">Page</a> for GUI<div>
