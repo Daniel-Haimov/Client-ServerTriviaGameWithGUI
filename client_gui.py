@@ -2,7 +2,7 @@ import socket
 import chatlib
 
 # GLOBALS
-SERVER_IP = "176.230.35.116"  # Our server will run on same computer as client
+SERVER_IP = "127.0.0.1"  # Our server will run on same computer as client
 SERVER_PORT = 5678
 
 conn = None
