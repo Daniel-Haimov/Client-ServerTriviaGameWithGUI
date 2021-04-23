@@ -5,7 +5,7 @@ questions = dict()
 questions_from_web = dict()
 fixed_questions_from_web = dict()
 question_id = 0
-file_questions_directory = "questions_join_web.txt"
+file_questions_directory = "questions.txt"
 file_questions_from_web_directory = 'question_from_web.txt'
 
 
