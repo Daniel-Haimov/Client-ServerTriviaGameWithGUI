@@ -1,8 +1,8 @@
 # Client-ServerTriviaGame
 Server: 
-<div><pre>manage multi socket's<pre/>
-<div><pre>save&load user and questions data from file<pre/>
-<div><pre>handling requests from clients with unique protocol<pre/>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;manage multi socket's
+<div>&nbsp;&nbsp;&nbsp;&nbsp;save&load user and questions data from file
+<div>&nbsp;&nbsp;&nbsp;&nbsp;handling requests from clients with unique protocol
 <div>
 Client:
 2 version's of client:
